@@ -53,3 +53,9 @@ p {
     text-align: center;
     margin: 0;
 }
+
+footer {
+    font-family: 'Outfit';
+    text-align: center;
+    padding-top: 150px;
+}
