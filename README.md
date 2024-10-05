@@ -11,13 +11,18 @@ This is [my solution](https://annadehtiarova.github.io/qr-code-component/) to th
 ## Overview
 
 ### Screenshot
+My challenge was to build out the QR code component and get it looking as close to the design as possible.
+
+
 <img width="1666" alt="Screenshot 2024-10-05 at 13 21 54" src="https://github.com/user-attachments/assets/5e2e6e2e-4d78-4213-a975-8c377b7ceb11">
 
 
-My challenge was to build out the QR code component and get it looking as close to the design as possible.
+
 I was provided with a Figma file.
 
+
 <img width="1680" alt="Screenshot 2024-10-05 at 13 13 50" src="https://github.com/user-attachments/assets/d8b34c16-e4c6-4a85-ad56-ccc0af01ab35">
+
 
 <img width="1675" alt="Screenshot 2024-10-05 at 13 15 13" src="https://github.com/user-attachments/assets/f49518e3-5f2c-4c95-9c07-dab90496094e">
 
