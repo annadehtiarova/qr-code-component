@@ -14,7 +14,7 @@ This is [my solution](https://annadehtiarova.github.io/qr-code-component/) to th
 My challenge was to build out the QR code component and get it looking as close to the design as possible.
 <br>
 <br>
-<img width="1666" alt="Screenshot 2024-10-05 at 13 21 54" src="https://github.com/user-attachments/assets/5e2e6e2e-4d78-4213-a975-8c377b7ceb11"> 
+<img width="1678" alt="Screenshot 2024-10-05 at 14 37 57" src="https://github.com/user-attachments/assets/73a164e6-6615-44f4-bbc8-488d77db593e">
 <br>
 <br>
 I was provided with a Figma file.
