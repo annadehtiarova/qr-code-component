@@ -1,5 +1,9 @@
 body {
     background-color: #D5E1EF;
+    margin: 0px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 div {
@@ -13,7 +17,7 @@ div {
     padding: 16px 16px 40px 16px;
     border-radius: 20px;
     margin: auto;
-    margin-top: 20vh;
+   
     box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
     border: 8px #999;
 }
@@ -59,5 +63,5 @@ p {
 footer {
     font-family: 'Outfit';
     text-align: center;
-    padding-top: 150px;
+    padding: 30px;
 }
