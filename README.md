@@ -1,4 +1,4 @@
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is [my solution](https://annadehtiarova.github.io/qr-code-component/) to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -16,7 +16,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 My challenge was to build out the QR code component and get it looking as close to the design as possible.
 I was provided with a Figma file.
+
 <img width="1680" alt="Screenshot 2024-10-05 at 13 13 50" src="https://github.com/user-attachments/assets/d8b34c16-e4c6-4a85-ad56-ccc0af01ab35">
+
 <img width="1675" alt="Screenshot 2024-10-05 at 13 15 13" src="https://github.com/user-attachments/assets/f49518e3-5f2c-4c95-9c07-dab90496094e">
 
 ### Built with
