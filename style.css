@@ -14,6 +14,8 @@ div {
     border-radius: 20px;
     margin: auto;
     margin-top: 20vh;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
+    border: 8px #999;
 }
 
 section {
