@@ -4,25 +4,26 @@ body {
 }
 
 div {
+    display: block;
+    text-align: center;
     margin: auto;
     margin-top: 20vh;
-    width: 320px;
-    height: 499px;
     background-color: #fff;
+    width: 288px;
+    height: 499px;
     padding: 16px 16px 40px 16px;
     border-radius: 20px;
 }
 
 section {
-    width: 288px;
-    height: 131px;
     padding: 24px 16px 16px 16px;
     text-align: center;
 
 }
 
 img {
-    width: 100%;
+    width: 288px;
+    height: 288px;
     border-radius: 10px;
 }
 
